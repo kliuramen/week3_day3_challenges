@@ -1,18 +1,20 @@
 /* Figure out 5 or more DIFFERENT ways to fill in the blank 
    to produce the desired output */
 
-_________ {
-    font-family: Helvetica;
-    font-size: 300%;
-    color: #ffd63e;
-    text-align: center;
+div {
+  font-family: Helvetica;
+  font-size: 150%;
+  color: #ffd63e;
+  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 /* Record your solutions here:
-   #1 -
-   #2 - 
-   #3 - 
-   #4 -
-   #5 -
+   #1 - div
+   #2 - #unique
+   #3 - .chuuuuu
+   #4 - h1
+   #5 - body
 
    e.g. - .pika               */
